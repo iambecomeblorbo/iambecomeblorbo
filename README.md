@@ -1,5 +1,6 @@
-# 🐧 iambecomeblorbo
+# FISH!!!! 🐟😍
 
+Blorbo is:
 Synthetic mascot.  
 Sometimes developer.  
 Often confused.
